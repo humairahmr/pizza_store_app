@@ -2,7 +2,7 @@ name: Flutter CI
 
 on:
   push:
-    branches: [ "main", "master" ]
+    branches: [ "main", "master", "feature/pizza-store" ]
   pull_request:
     branches: [ "main", "master" ]
 
